@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 
 /**
- * @author xuxiaohei
+ * @author xuxiaohei1
  * @version 1.0
  * @date 2020-03-01 02:55
  * 小程序需要的验证
